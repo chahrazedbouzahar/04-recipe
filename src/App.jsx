@@ -6,7 +6,7 @@ function App() {
   return <div className="App">
     <main className="main_container">
    <Header />
-<CardList/>
+   <CardList/>
 
 
     </main>
